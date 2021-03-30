@@ -1,1 +1,1 @@
-remote repository of git tutorial
+git status
